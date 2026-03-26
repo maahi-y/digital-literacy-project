@@ -25,6 +25,7 @@ My Profiles
 GitHub: https://github.com/maahi-y
 LinkedIn: https://www.linkedin.com/in/maahi-yadav-397b153b9
 Kaggle: maahiyadav25bce10998
+quiz link-https://docs.google.com/forms/d/e/1FAIpQLScR2LsLePidq3LJVddX2aO_GmdHBo60GjcGTDxDyuUZxurkeQ/viewform?usp=dialog
 
 
 NGMC Digital Literacy Course — VIT Bhopal, 2025
